@@ -50,7 +50,7 @@ Evaluación realizada con validación cruzada de 10 folds.
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/nobcesar/predicion_NN_carros_usados
 cd tu-repo
 
 # 2. Instalar dependencias
@@ -64,7 +64,7 @@ streamlit run app.py
 
 ## 🌐 Aplicación en línea
 
-👉 [Ver aplicación en Streamlit](https://tu-app.streamlit.app)
+👉 [Ver aplicación en Streamlit](https://predicionnncarrosusados-nx6kcnpaeqjaemxo8hxst5.streamlit.app/)  
 
 ---
 
